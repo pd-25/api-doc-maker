@@ -1,0 +1,10 @@
+1. User register/login
+2. Create new api-doc
+3. List apis
+4. Delete apis
+
+-
+1.User login/register
+   * set up and connect database with fastapi
+   * create user table - name, email, phone, status, deleted_at
+   * register and login function to generate token
